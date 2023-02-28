@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+
+/* Set font family */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
