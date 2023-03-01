@@ -6,7 +6,7 @@ export default function Hero() {
     //   <div className="m-auto w-[170px]">
     //     <p className="text-[#5D6199] font-semibold text-md">Tupan CodeArt</p>
     //     <p className="text-white font-semibold text-2xl whitespace-normal">
-    //       Build your business with our designs
+    //       Discover the Art of Coding with Tupan CodeArt
     //     </p>
     //   </div>
     //   <div className="">
