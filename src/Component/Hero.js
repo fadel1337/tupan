@@ -33,7 +33,7 @@ export default function Hero() {
             Tupan CodeArt
           </p>
           <p className="text-white font-semibold text-3xl whitespace-normal">
-            Build your business with our designs
+            Discover the Art of Coding with Tupan CodeArt
           </p>
         </div>
         <div class="w-2/4 mt-40 grid-akhir">
