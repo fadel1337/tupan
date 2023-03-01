@@ -4,56 +4,57 @@ import Footer from "./Footer";
 
 export default function Library() {
   const DataModul = [
+    
     {
-      title: "MODUL ADMINISTRASI SISTEM JARINGAN – XI TKJ",
-      cover: "Assets/MODUL ADMINISTRASI SISTEM JARINGAN – XI TKJ.jpg",
-      url: "Assets/PDF/MODUL ADMINISTRASI SISTEM JARINGAN – XI TKJ.pdf",
+      title: "Materi Literasi C++ By Harielzal",
+      cover: "Assets/Materi-Literasi-C++-Cover.png",
+      url: "Assets/PDF/Materi-Literasi-C++-Cover.pdf",
     },
     {
-      title: "Modul Administrasi Infrastruktur Jaringan – XI TKJ",
-      cover: "Assets/Modul Administrasi Infrastruktur Jaringan – XI TKJ.jpg",
-      url: "Assets/PDF/Modul Administrasi Infrastruktur Jaringan – XI TKJ.pdf",
+      title: "Materi Literasi Desain Grafis By Harielzal ",
+      cover: "Assets/Materi-Literasi-Desain-Grafis-Cover.png",
+      url: "Assets/PDF/Materi-Literasi-Desain-Grafis-Cover.pdf",
     },
     {
-      title: "Modul Administrasi Transaksi – XI BDP",
-      cover: "Assets/Modul Administrasi Transaksi – XI BDP.jpg",
-      url: "Assets/PDF/Modul Administrasi Transaksi – XI BDP.pdf",
+      title: "Materi Literasi Python By Harielzal",
+      cover: "Assets/Materi-Literasi-Python-Cover.png",
+      url: "Assets/PDF/Materi-Literasi-Python-Cover.pdf",
     },
     {
-      title: "Modul Adminstrasi Transaksi – XII BDP",
-      cover: "Assets/Modul Adminstrasi Transaksi – XII BDP.jpg",
-      url: "Assets/PDF/Modul Adminstrasi Transaksi – XII BDP.pdf",
+      title: "Materi Literasi Teknologi Jaringan By Harielzal",
+      cover: "Assets/Materi-Literasi-Teknologi-Jaringan-cover.png",
+      url: "Assets/PDF/Materi-Literasi-Teknologi-Jaringan-cover.pdf",
     },
     {
-      title: "Modul Dasar Desain Grafis – X TKJ",
-      cover: "Assets/Modul Dasar Desain Grafis – X TKJ.jpg",
-      url: "Assets/PDF/Modul Dasar Desain Grafis – X TKJ.pdf",
+      title: "Materi Hardware Komputer By Umar",
+      cover: "Assets/Cover Materi 1- Hardware Komputer.jpg",
+      url: "Assets/PDF/Materi 1- Hardware Komputer.pdf",
     },
     {
-      title: "Modul Komputer dan Jaringan Dasar – X TKJ",
-      cover: "Assets/Modul Komputer dan Jaringan Dasar – X TKJ.jpg",
-      url: "Assets/PDF/Modul Komputer dan Jaringan Dasar – X TKJ.pdf",
+      title: "Bahasa Pemograman Populer",
+      cover: "Assets/Cover Materi 2 - Bahasa Pemrograman Populer.jpg",
+      url: "Assets/PDF/Materi 2 - Bahasa Pemrograman Populer.pdf",
     },
     {
-      title: "Modul Produk Kreatif dan Kewirausahaan – XII OTKP",
-      cover: "Assets/Modul Produk Kreatif dan Kewirausahaan – XII OTKP.jpg",
-      url: "Assets/PDF/Modul Produk Kreatif dan Kewirausahaan – XII OTKP.pdf",
+      title: "Materi Software Desain Grafis dan Video Editing By Umar",
+      cover: "Assets/Cover Materi 3 - Software Desain Grafis dan Video Editing.jpg",
+      url: "Assets/PDF/Materi 3 - Software Desain Grafis dan Video Editing.pdf",
     },
     {
-      title: "Modul Komunikasi Bisnis – X BDP",
-      cover: "Assets/Modul Komunikasi Bisnis – X BDP.jpg",
-      url: "Assets/PDF/Modul Komunikasi Bisnis – X BDP.pdf",
+      title: "Mengenal Sejarah Teknologi Komputer",
+      cover: "Assets/ayo mengenal sejarah komputer.png",
+      url: "Assets/PDF/SEJARAH SINGKAT TEKNOLOGI KOMPUTER.pdf",
     },
     {
-      title: "Modul Pendidikan Agama Islam dan Budi Pekerti – XI",
-      cover: "Assets/Modul Pendidikan Agama Islam dan Budi Pekerti – XI.jpg",
-      url: "Assets/PDF/Modul Pendidikan Agama Islam dan Budi Pekerti – XI.pdf",
+      title: "Mengenal Operating System Windows",
+      cover: "Assets/poster ayo mengenal windows.png",
+      url: "Assets/PDF/MENGENAL APA ITU WINDOWS.pdf",
     },
     {
-      title: "Modul PJOK – Permainan Bola Basket – X",
-      cover: "Assets/Modul PJOK – Permainan Bola Basket – X.jpg",
-      url: "Assets/PDF/Modul PJOK – Permainan Bola Basket – X.pdf",
-    },
+        title: "Materi Literasi Java Script By Harielzal",
+        cover: "Assets/Materi-Literasi-Java-Sript-Cover.png",
+        url: "Assets/PDF/Materi-Literasi-Java-Sript-Cover.pdf",
+      },
   ];
   return (
     <div className="bg-[#DCDCDC]">
