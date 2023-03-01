@@ -52,7 +52,7 @@ export default function Library() {
     },
     {
         title: "Materi Literasi Java Script By Harielzal",
-        cover: "Assets/Materi-Literasi-Java-Sript-Cover.png",
+        cover: "Assets/Screenshot_20230302-053900444_1.jpg",
         url: "Assets/PDF/Materi-Literasi-Java-Sript-Cover.pdf",
       },
   ];
