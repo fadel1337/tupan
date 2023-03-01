@@ -19,7 +19,7 @@ export default function Hero() {
     //     <p className="text-white font-thin text-sm whitespace-normal mt-4">
     //       Sebuah tim Web Design dengan beranggota 4 orang yang berasal dari SMK
     //       Tunas Pembangunan. Tim ini terdiri dari seorang ketua ( Fadel )
-    //       sebagai programmer, 3anggota (Chandika, Aril) sebagai desainer dan (
+    //       sebagai programmer, 3 anggota (Chandika, Aril) sebagai desainer dan (
     //       Umar ) presentator. Mereka memiliki kemampuan dan pemrograman yang
     //       kuat, serta semangat untuk belajar dan berkembang.
     //     </p>
@@ -43,7 +43,7 @@ export default function Hero() {
           <p className="text-white font-thin text-sm whitespace-normal mt-4">
             Sebuah tim Web Design dengan beranggota 4 orang yang berasal dari
             SMK Tunas Pembangunan. Tim ini terdiri dari seorang ketua ( Fadel )
-            sebagai programmer, 3anggota (Chandika, Aril) sebagai desainer dan (
+            sebagai programmer, 3 anggota (Chandika, Aril) sebagai desainer dan (
             Umar ) presentator. Mereka memiliki kemampuan dan pemrograman yang
             kuat, serta semangat untuk belajar dan berkembang.
           </p>
