@@ -21,8 +21,7 @@ export default function Hero() {
     //       Tunas Pembangunan. Tim ini terdiri dari seorang ketua ( Fadel )
     //       sebagai programmer, 3anggota (Chandika, Aril) sebagai desainer dan (
     //       Umar ) presentator. Mereka memiliki kemampuan dan pemrograman yang
-    //       kuat, serta semangat untuk belajar dan berkembang. Tim ini berfokus
-    //       pada desain User Interface
+    //       kuat, serta semangat untuk belajar dan berkembang.
     //     </p>
     //   </div>
     // </div>
@@ -46,8 +45,7 @@ export default function Hero() {
             SMK Tunas Pembangunan. Tim ini terdiri dari seorang ketua ( Fadel )
             sebagai programmer, 3anggota (Chandika, Aril) sebagai desainer dan (
             Umar ) presentator. Mereka memiliki kemampuan dan pemrograman yang
-            kuat, serta semangat untuk belajar dan berkembang. Tim ini berfokus
-            pada desain User Interface
+            kuat, serta semangat untuk belajar dan berkembang.
           </p>
         </div>
       </div>
